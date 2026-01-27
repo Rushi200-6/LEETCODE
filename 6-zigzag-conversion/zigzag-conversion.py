@@ -1,0 +1,15 @@
+class Solution(object):
+    def convert(self, s, numRows):
+        rows=[""]*numRows
+        curr=0
+        direction=1
+        if numRows==1 or numRows>=len(s):
+            return s
+        for ch in s:
+            rows[curr]+=ch
+            if curr==0:
+                direction=1
+            elif curr==numRows-1:
+                direction=-1
+            curr+=direction
+        return "".join(rows)
