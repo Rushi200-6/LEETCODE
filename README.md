@@ -7,11 +7,13 @@ DSA PROBLEMS
 | ------- |
 | [0009-palindrome-number](https://github.com/Rushi200-6/LEETCODE/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Rushi200-6/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Rushi200-6/LEETCODE/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Rushi200-6/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Rushi200-6/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Rushi200-6/LEETCODE/tree/master/0013-roman-to-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -36,4 +38,5 @@ DSA PROBLEMS
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Rushi200-6/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Rushi200-6/LEETCODE/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
