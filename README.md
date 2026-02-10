@@ -16,6 +16,7 @@ DSA PROBLEMS
 | [0013-roman-to-integer](https://github.com/Rushi200-6/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Rushi200-6/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rushi200-6/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/master/0020-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,4 +69,8 @@ DSA PROBLEMS
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rushi200-6/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
