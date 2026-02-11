@@ -25,6 +25,7 @@ DSA PROBLEMS
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Rushi200-6/LEETCODE/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/Rushi200-6/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 ## Array
 |  |
 | ------- |
@@ -69,6 +70,7 @@ DSA PROBLEMS
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rushi200-6/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Rushi200-6/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 ## Stack
 |  |
 | ------- |
