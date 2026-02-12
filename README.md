@@ -17,10 +17,12 @@ DSA PROBLEMS
 | [0014-longest-common-prefix](https://github.com/Rushi200-6/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rushi200-6/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Rushi200-6/LEETCODE/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/master/0022-generate-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -66,6 +68,7 @@ DSA PROBLEMS
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rushi200-6/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/master/0022-generate-parentheses) |
 ## Linked List
 |  |
 | ------- |
