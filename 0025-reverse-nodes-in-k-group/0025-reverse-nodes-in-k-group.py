@@ -6,7 +6,7 @@ class ListNode:
 
 class Solution:
     def reverseKGroup(self, head ,k):
-        # Helper function to check if k nodes exist
+        
         def get_kth(curr, k):
             while curr and k > 0:
                 curr = curr.next
@@ -19,12 +19,12 @@ class Solution:
 
         while True:
             kth = get_kth(group_prev, k)
-            if not kth:   # Not enough nodes left
+            if not kth:  
                 break
 
             group_next = kth.next
 
-            # Reverse group
+           
             prev = group_next
             curr = group_prev.next
 
@@ -34,7 +34,7 @@ class Solution:
                 prev = curr
                 curr = temp
 
-            # Reconnect reversed group
+           
             temp = group_prev.next
             group_prev.next = kth
             group_prev = temp
