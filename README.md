@@ -46,6 +46,7 @@ DSA PROBLEMS
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rushi200-6/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rushi200-6/LEETCODE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Rushi200-6/LEETCODE/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Rushi200-6/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,4 +122,8 @@ DSA PROBLEMS
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rushi200-6/LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Rushi200-6/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
