@@ -1,21 +1,22 @@
 class Solution:
     def countAndSay(self, n):
-        result = "1"
+        s = "1"
         
         for _ in range(n - 1):
-            current = ""
-            count = 1
+            i = 0
+            temp = []
             
-            for i in range(1, len(result)):
-                if result[i] == result[i - 1]:
+            while i < len(s):
+                count = 1
+                
+                while i + 1 < len(s) and s[i] == s[i + 1]:
+                    i += 1
                     count += 1
-                else:
-                    current += str(count) + result[i - 1]
-                    count = 1
+                
+                temp.append(str(count))
+                temp.append(s[i])
+                i += 1
             
-           
-            current += str(count) + result[-1]
-            
-            result = current
+            s = "".join(temp)
         
-        return result
+        return s
