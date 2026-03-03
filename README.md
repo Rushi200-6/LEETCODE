@@ -50,6 +50,7 @@ DSA PROBLEMS
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rushi200-6/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rushi200-6/LEETCODE/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0040-combination-sum-ii/) | Medium |
+| [0041-first-missing-positive](https://github.com/Rushi200-6/LEETCODE/tree/main/0041-first-missing-positive/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +74,7 @@ DSA PROBLEMS
 | [0013-roman-to-integer](https://github.com/Rushi200-6/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rushi200-6/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rushi200-6/LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0041-first-missing-positive](https://github.com/Rushi200-6/LEETCODE/tree/main/0041-first-missing-positive/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
