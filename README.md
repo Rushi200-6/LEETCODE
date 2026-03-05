@@ -9,6 +9,7 @@ DSA PROBLEMS
 | [0012-integer-to-roman](https://github.com/Rushi200-6/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rushi200-6/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Rushi200-6/LEETCODE/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Rushi200-6/LEETCODE/tree/main/0043-multiply-strings/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -22,6 +23,7 @@ DSA PROBLEMS
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rushi200-6/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rushi200-6/LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Rushi200-6/LEETCODE/tree/main/0043-multiply-strings/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,4 +144,8 @@ DSA PROBLEMS
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Rushi200-6/LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/Rushi200-6/LEETCODE/tree/main/0043-multiply-strings/) | Medium |
 <!---LeetCode Topics End-->
