@@ -24,6 +24,7 @@ DSA PROBLEMS
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rushi200-6/LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Rushi200-6/LEETCODE/tree/main/0043-multiply-strings/) | Medium |
+| [0044-wildcard-matching](https://github.com/Rushi200-6/LEETCODE/tree/main/0044-wildcard-matching/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,6 +32,7 @@ DSA PROBLEMS
 | [0022-generate-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rushi200-6/LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
+| [0044-wildcard-matching](https://github.com/Rushi200-6/LEETCODE/tree/main/0044-wildcard-matching/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +40,7 @@ DSA PROBLEMS
 | [0021-merge-two-sorted-lists](https://github.com/Rushi200-6/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Rushi200-6/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rushi200-6/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Rushi200-6/LEETCODE/tree/main/0044-wildcard-matching/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +75,7 @@ DSA PROBLEMS
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Rushi200-6/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Rushi200-6/LEETCODE/tree/main/0044-wildcard-matching/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
