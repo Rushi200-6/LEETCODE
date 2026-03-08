@@ -60,6 +60,7 @@ DSA PROBLEMS
 | [0041-first-missing-positive](https://github.com/Rushi200-6/LEETCODE/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Rushi200-6/LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0045-jump-game-ii/) | Medium |
+| [0046-permutations](https://github.com/Rushi200-6/LEETCODE/tree/main/0046-permutations/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +104,7 @@ DSA PROBLEMS
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rushi200-6/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/Rushi200-6/LEETCODE/tree/main/0046-permutations/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
