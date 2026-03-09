@@ -61,6 +61,7 @@ DSA PROBLEMS
 | [0042-trapping-rain-water](https://github.com/Rushi200-6/LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Rushi200-6/LEETCODE/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0047-permutations-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +99,7 @@ DSA PROBLEMS
 | [0015-3sum](https://github.com/Rushi200-6/LEETCODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Rushi200-6/LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Rushi200-6/LEETCODE/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0047-permutations-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +107,7 @@ DSA PROBLEMS
 | [0022-generate-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Rushi200-6/LEETCODE/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0047-permutations-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
