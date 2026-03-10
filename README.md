@@ -10,6 +10,7 @@ DSA PROBLEMS
 | [0013-roman-to-integer](https://github.com/Rushi200-6/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Rushi200-6/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Rushi200-6/LEETCODE/tree/main/0043-multiply-strings/) | Medium |
+| [0048-rotate-image](https://github.com/Rushi200-6/LEETCODE/tree/main/0048-rotate-image/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@ DSA PROBLEMS
 | [0045-jump-game-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Rushi200-6/LEETCODE/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0047-permutations-ii/) | Medium |
+| [0048-rotate-image](https://github.com/Rushi200-6/LEETCODE/tree/main/0048-rotate-image/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,4 +162,8 @@ DSA PROBLEMS
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Rushi200-6/LEETCODE/tree/main/0043-multiply-strings/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/Rushi200-6/LEETCODE/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
