@@ -26,6 +26,7 @@ DSA PROBLEMS
 | [0032-longest-valid-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Rushi200-6/LEETCODE/tree/main/0043-multiply-strings/) | Medium |
 | [0044-wildcard-matching](https://github.com/Rushi200-6/LEETCODE/tree/main/0044-wildcard-matching/) | Hard |
+| [0049-group-anagrams](https://github.com/Rushi200-6/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +65,7 @@ DSA PROBLEMS
 | [0046-permutations](https://github.com/Rushi200-6/LEETCODE/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Rushi200-6/LEETCODE/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/Rushi200-6/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +93,7 @@ DSA PROBLEMS
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rushi200-6/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rushi200-6/LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/Rushi200-6/LEETCODE/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/Rushi200-6/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +105,7 @@ DSA PROBLEMS
 | [0016-3sum-closest](https://github.com/Rushi200-6/LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Rushi200-6/LEETCODE/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0047-permutations-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/Rushi200-6/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
