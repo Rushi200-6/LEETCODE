@@ -11,6 +11,7 @@ DSA PROBLEMS
 | [0029-divide-two-integers](https://github.com/Rushi200-6/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Rushi200-6/LEETCODE/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/Rushi200-6/LEETCODE/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/Rushi200-6/LEETCODE/tree/main/0050-powx-n/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@ DSA PROBLEMS
 | [0024-swap-nodes-in-pairs](https://github.com/Rushi200-6/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rushi200-6/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Rushi200-6/LEETCODE/tree/main/0044-wildcard-matching/) | Hard |
+| [0050-powx-n](https://github.com/Rushi200-6/LEETCODE/tree/main/0050-powx-n/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
