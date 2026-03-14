@@ -118,6 +118,7 @@ DSA PROBLEMS
 | [0046-permutations](https://github.com/Rushi200-6/LEETCODE/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/Rushi200-6/LEETCODE/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0052-n-queens-ii/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
