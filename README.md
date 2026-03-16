@@ -71,6 +71,7 @@ DSA PROBLEMS
 | [0049-group-anagrams](https://github.com/Rushi200-6/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/Rushi200-6/LEETCODE/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Rushi200-6/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/Rushi200-6/LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,8 +175,10 @@ DSA PROBLEMS
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Rushi200-6/LEETCODE/tree/main/0043-multiply-strings/) | Medium |
+| [0054-spiral-matrix](https://github.com/Rushi200-6/LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Rushi200-6/LEETCODE/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/Rushi200-6/LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
