@@ -1,6 +1,6 @@
 class Solution:
     def canJump(self, nums):
-        max_reach = 0  # 
+        max_reach = 0  
 
         for i in range(len(nums)):
             
