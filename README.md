@@ -74,6 +74,7 @@ DSA PROBLEMS
 | [0053-maximum-subarray](https://github.com/Rushi200-6/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Rushi200-6/LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Rushi200-6/LEETCODE/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/Rushi200-6/LEETCODE/tree/main/0056-merge-intervals/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +116,7 @@ DSA PROBLEMS
 | [0018-4sum](https://github.com/Rushi200-6/LEETCODE/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Rushi200-6/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/Rushi200-6/LEETCODE/tree/main/0056-merge-intervals/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
