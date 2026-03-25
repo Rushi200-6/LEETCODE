@@ -41,6 +41,7 @@ DSA PROBLEMS
 | [0045-jump-game-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Rushi200-6/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Rushi200-6/LEETCODE/tree/main/0055-jump-game/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0063-unique-paths-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@ DSA PROBLEMS
 | [0056-merge-intervals](https://github.com/Rushi200-6/LEETCODE/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Rushi200-6/LEETCODE/tree/main/0057-insert-interval/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0063-unique-paths-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,4 +197,5 @@ DSA PROBLEMS
 | [0048-rotate-image](https://github.com/Rushi200-6/LEETCODE/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Rushi200-6/LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0063-unique-paths-ii/) | Medium |
 <!---LeetCode Topics End-->
