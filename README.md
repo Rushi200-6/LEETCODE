@@ -30,6 +30,7 @@ DSA PROBLEMS
 | [0044-wildcard-matching](https://github.com/Rushi200-6/LEETCODE/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/Rushi200-6/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/Rushi200-6/LEETCODE/tree/main/0058-length-of-last-word/) | Easy |
+| [0065-valid-number](https://github.com/Rushi200-6/LEETCODE/tree/main/0065-valid-number/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
