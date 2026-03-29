@@ -14,6 +14,7 @@ DSA PROBLEMS
 | [0050-powx-n](https://github.com/Rushi200-6/LEETCODE/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/Rushi200-6/LEETCODE/tree/main/0060-permutation-sequence/) | Hard |
 | [0066-plus-one](https://github.com/Rushi200-6/LEETCODE/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/Rushi200-6/LEETCODE/tree/main/0067-add-binary/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@ DSA PROBLEMS
 | [0049-group-anagrams](https://github.com/Rushi200-6/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/Rushi200-6/LEETCODE/tree/main/0058-length-of-last-word/) | Easy |
 | [0065-valid-number](https://github.com/Rushi200-6/LEETCODE/tree/main/0065-valid-number/) | Hard |
+| [0067-add-binary](https://github.com/Rushi200-6/LEETCODE/tree/main/0067-add-binary/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +178,7 @@ DSA PROBLEMS
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Rushi200-6/LEETCODE/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Rushi200-6/LEETCODE/tree/main/0067-add-binary/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,6 +199,7 @@ DSA PROBLEMS
 | [0043-multiply-strings](https://github.com/Rushi200-6/LEETCODE/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/Rushi200-6/LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0067-add-binary](https://github.com/Rushi200-6/LEETCODE/tree/main/0067-add-binary/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
