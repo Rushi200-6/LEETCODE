@@ -34,6 +34,7 @@ DSA PROBLEMS
 | [0058-length-of-last-word](https://github.com/Rushi200-6/LEETCODE/tree/main/0058-length-of-last-word/) | Easy |
 | [0065-valid-number](https://github.com/Rushi200-6/LEETCODE/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/Rushi200-6/LEETCODE/tree/main/0067-add-binary/) | Easy |
+| [0068-text-justification](https://github.com/Rushi200-6/LEETCODE/tree/main/0068-text-justification/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +90,7 @@ DSA PROBLEMS
 | [0063-unique-paths-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/Rushi200-6/LEETCODE/tree/main/0066-plus-one/) | Easy |
+| [0068-text-justification](https://github.com/Rushi200-6/LEETCODE/tree/main/0068-text-justification/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +202,7 @@ DSA PROBLEMS
 | [0054-spiral-matrix](https://github.com/Rushi200-6/LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0067-add-binary](https://github.com/Rushi200-6/LEETCODE/tree/main/0067-add-binary/) | Easy |
+| [0068-text-justification](https://github.com/Rushi200-6/LEETCODE/tree/main/0068-text-justification/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
