@@ -15,6 +15,7 @@ DSA PROBLEMS
 | [0060-permutation-sequence](https://github.com/Rushi200-6/LEETCODE/tree/main/0060-permutation-sequence/) | Hard |
 | [0066-plus-one](https://github.com/Rushi200-6/LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Rushi200-6/LEETCODE/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/Rushi200-6/LEETCODE/tree/main/0069-sqrtx/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +192,7 @@ DSA PROBLEMS
 | [0033-search-in-rotated-sorted-array](https://github.com/Rushi200-6/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rushi200-6/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rushi200-6/LEETCODE/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Rushi200-6/LEETCODE/tree/main/0069-sqrtx/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
