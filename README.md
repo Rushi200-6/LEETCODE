@@ -16,6 +16,7 @@ DSA PROBLEMS
 | [0066-plus-one](https://github.com/Rushi200-6/LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Rushi200-6/LEETCODE/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Rushi200-6/LEETCODE/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/Rushi200-6/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@ DSA PROBLEMS
 | [0055-jump-game](https://github.com/Rushi200-6/LEETCODE/tree/main/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0064-minimum-path-sum/) | Medium |
+| [0070-climbing-stairs](https://github.com/Rushi200-6/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,4 +215,8 @@ DSA PROBLEMS
 | [0059-spiral-matrix-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0064-minimum-path-sum/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Rushi200-6/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
