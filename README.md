@@ -37,6 +37,7 @@ DSA PROBLEMS
 | [0065-valid-number](https://github.com/Rushi200-6/LEETCODE/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/Rushi200-6/LEETCODE/tree/main/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/Rushi200-6/LEETCODE/tree/main/0068-text-justification/) | Hard |
+| [0071-simplify-path](https://github.com/Rushi200-6/LEETCODE/tree/main/0071-simplify-path/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,6 +163,7 @@ DSA PROBLEMS
 | [0020-valid-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rushi200-6/LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
+| [0071-simplify-path](https://github.com/Rushi200-6/LEETCODE/tree/main/0071-simplify-path/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
