@@ -97,6 +97,7 @@ DSA PROBLEMS
 | [0064-minimum-path-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/Rushi200-6/LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [0068-text-justification](https://github.com/Rushi200-6/LEETCODE/tree/main/0068-text-justification/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/Rushi200-6/LEETCODE/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +128,7 @@ DSA PROBLEMS
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rushi200-6/LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/Rushi200-6/LEETCODE/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Rushi200-6/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Rushi200-6/LEETCODE/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,6 +221,7 @@ DSA PROBLEMS
 | [0059-spiral-matrix-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Rushi200-6/LEETCODE/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
