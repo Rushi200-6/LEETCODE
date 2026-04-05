@@ -98,6 +98,7 @@ DSA PROBLEMS
 | [0066-plus-one](https://github.com/Rushi200-6/LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [0068-text-justification](https://github.com/Rushi200-6/LEETCODE/tree/main/0068-text-justification/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/Rushi200-6/LEETCODE/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Rushi200-6/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +202,7 @@ DSA PROBLEMS
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rushi200-6/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rushi200-6/LEETCODE/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Rushi200-6/LEETCODE/tree/main/0069-sqrtx/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/Rushi200-6/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +224,7 @@ DSA PROBLEMS
 | [0063-unique-paths-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Rushi200-6/LEETCODE/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Rushi200-6/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
