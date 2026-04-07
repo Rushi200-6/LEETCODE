@@ -39,6 +39,7 @@ DSA PROBLEMS
 | [0068-text-justification](https://github.com/Rushi200-6/LEETCODE/tree/main/0068-text-justification/) | Hard |
 | [0071-simplify-path](https://github.com/Rushi200-6/LEETCODE/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/Rushi200-6/LEETCODE/tree/main/0072-edit-distance/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Rushi200-6/LEETCODE/tree/main/0076-minimum-window-substring/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +133,7 @@ DSA PROBLEMS
 | [0041-first-missing-positive](https://github.com/Rushi200-6/LEETCODE/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Rushi200-6/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Rushi200-6/LEETCODE/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Rushi200-6/LEETCODE/tree/main/0076-minimum-window-substring/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +200,7 @@ DSA PROBLEMS
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rushi200-6/LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/Rushi200-6/LEETCODE/tree/main/0076-minimum-window-substring/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
