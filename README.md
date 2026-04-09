@@ -101,6 +101,7 @@ DSA PROBLEMS
 | [0073-set-matrix-zeroes](https://github.com/Rushi200-6/LEETCODE/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Rushi200-6/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Rushi200-6/LEETCODE/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/Rushi200-6/LEETCODE/tree/main/0078-subsets/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +160,7 @@ DSA PROBLEMS
 | [0051-n-queens](https://github.com/Rushi200-6/LEETCODE/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/Rushi200-6/LEETCODE/tree/main/0077-combinations/) | Medium |
+| [0078-subsets](https://github.com/Rushi200-6/LEETCODE/tree/main/0078-subsets/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +199,7 @@ DSA PROBLEMS
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Rushi200-6/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Rushi200-6/LEETCODE/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/Rushi200-6/LEETCODE/tree/main/0078-subsets/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
