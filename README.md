@@ -104,6 +104,7 @@ DSA PROBLEMS
 | [0075-sort-colors](https://github.com/Rushi200-6/LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Rushi200-6/LEETCODE/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Rushi200-6/LEETCODE/tree/main/0079-word-search/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +120,7 @@ DSA PROBLEMS
 | [0042-trapping-rain-water](https://github.com/Rushi200-6/LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/Rushi200-6/LEETCODE/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/Rushi200-6/LEETCODE/tree/main/0075-sort-colors/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
