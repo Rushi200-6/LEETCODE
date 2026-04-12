@@ -105,6 +105,7 @@ DSA PROBLEMS
 | [0078-subsets](https://github.com/Rushi200-6/LEETCODE/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Rushi200-6/LEETCODE/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,6 +219,7 @@ DSA PROBLEMS
 | [0035-search-insert-position](https://github.com/Rushi200-6/LEETCODE/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Rushi200-6/LEETCODE/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Rushi200-6/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
