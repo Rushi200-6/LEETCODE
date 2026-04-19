@@ -111,6 +111,7 @@ DSA PROBLEMS
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rushi200-6/LEETCODE/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Rushi200-6/LEETCODE/tree/main/0085-maximal-rectangle/) | Hard |
+| [0088-merge-sorted-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +130,7 @@ DSA PROBLEMS
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/Rushi200-6/LEETCODE/tree/main/0086-partition-list/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,6 +163,7 @@ DSA PROBLEMS
 | [0049-group-anagrams](https://github.com/Rushi200-6/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Rushi200-6/LEETCODE/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Rushi200-6/LEETCODE/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
