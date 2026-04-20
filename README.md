@@ -17,6 +17,7 @@ DSA PROBLEMS
 | [0067-add-binary](https://github.com/Rushi200-6/LEETCODE/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Rushi200-6/LEETCODE/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Rushi200-6/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
+| [0089-gray-code](https://github.com/Rushi200-6/LEETCODE/tree/main/0089-gray-code/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +178,7 @@ DSA PROBLEMS
 | [0077-combinations](https://github.com/Rushi200-6/LEETCODE/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/Rushi200-6/LEETCODE/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Rushi200-6/LEETCODE/tree/main/0079-word-search/) | Medium |
+| [0089-gray-code](https://github.com/Rushi200-6/LEETCODE/tree/main/0089-gray-code/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,6 +223,7 @@ DSA PROBLEMS
 | [0029-divide-two-integers](https://github.com/Rushi200-6/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Rushi200-6/LEETCODE/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/Rushi200-6/LEETCODE/tree/main/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/Rushi200-6/LEETCODE/tree/main/0089-gray-code/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
