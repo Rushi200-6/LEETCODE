@@ -113,6 +113,7 @@ DSA PROBLEMS
 | [0084-largest-rectangle-in-histogram](https://github.com/Rushi200-6/LEETCODE/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Rushi200-6/LEETCODE/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
+| [0090-subsets-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0090-subsets-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +180,7 @@ DSA PROBLEMS
 | [0078-subsets](https://github.com/Rushi200-6/LEETCODE/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Rushi200-6/LEETCODE/tree/main/0079-word-search/) | Medium |
 | [0089-gray-code](https://github.com/Rushi200-6/LEETCODE/tree/main/0089-gray-code/) | Medium |
+| [0090-subsets-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0090-subsets-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +226,7 @@ DSA PROBLEMS
 | [0067-add-binary](https://github.com/Rushi200-6/LEETCODE/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/Rushi200-6/LEETCODE/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/Rushi200-6/LEETCODE/tree/main/0089-gray-code/) | Medium |
+| [0090-subsets-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0090-subsets-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
