@@ -18,6 +18,7 @@ DSA PROBLEMS
 | [0069-sqrtx](https://github.com/Rushi200-6/LEETCODE/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Rushi200-6/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [0089-gray-code](https://github.com/Rushi200-6/LEETCODE/tree/main/0089-gray-code/) | Medium |
+| [0189-rotate-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +115,7 @@ DSA PROBLEMS
 | [0085-maximal-rectangle](https://github.com/Rushi200-6/LEETCODE/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0090-subsets-ii/) | Medium |
+| [0189-rotate-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +135,7 @@ DSA PROBLEMS
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/Rushi200-6/LEETCODE/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
