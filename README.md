@@ -116,6 +116,7 @@ DSA PROBLEMS
 | [0088-merge-sorted-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0090-subsets-ii/) | Medium |
 | [0189-rotate-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/Rushi200-6/LEETCODE/tree/main/0283-move-zeroes/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +137,7 @@ DSA PROBLEMS
 | [0086-partition-list](https://github.com/Rushi200-6/LEETCODE/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/Rushi200-6/LEETCODE/tree/main/0283-move-zeroes/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
