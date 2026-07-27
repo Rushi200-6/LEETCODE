@@ -117,6 +117,7 @@ DSA PROBLEMS
 | [0090-subsets-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0090-subsets-ii/) | Medium |
 | [0189-rotate-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Rushi200-6/LEETCODE/tree/main/0283-move-zeroes/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/Rushi200-6/LEETCODE/tree/main/0485-max-consecutive-ones/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
