@@ -115,6 +115,7 @@ DSA PROBLEMS
 | [0085-maximal-rectangle](https://github.com/Rushi200-6/LEETCODE/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0090-subsets-ii/) | Medium |
+| [0136-single-number](https://github.com/Rushi200-6/LEETCODE/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Rushi200-6/LEETCODE/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Rushi200-6/LEETCODE/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -233,6 +234,7 @@ DSA PROBLEMS
 | [0078-subsets](https://github.com/Rushi200-6/LEETCODE/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/Rushi200-6/LEETCODE/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0090-subsets-ii/) | Medium |
+| [0136-single-number](https://github.com/Rushi200-6/LEETCODE/tree/main/0136-single-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
