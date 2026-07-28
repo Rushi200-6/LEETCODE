@@ -61,6 +61,7 @@ DSA PROBLEMS
 | [0072-edit-distance](https://github.com/Rushi200-6/LEETCODE/tree/main/0072-edit-distance/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Rushi200-6/LEETCODE/tree/main/0085-maximal-rectangle/) | Hard |
 | [0087-scramble-string](https://github.com/Rushi200-6/LEETCODE/tree/main/0087-scramble-string/) | Hard |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rushi200-6/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +116,7 @@ DSA PROBLEMS
 | [0085-maximal-rectangle](https://github.com/Rushi200-6/LEETCODE/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0090-subsets-ii/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rushi200-6/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Rushi200-6/LEETCODE/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Rushi200-6/LEETCODE/tree/main/0283-move-zeroes/) | Easy |
