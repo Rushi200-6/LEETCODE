@@ -75,6 +75,7 @@ DSA PROBLEMS
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Rushi200-6/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Rushi200-6/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Rushi200-6/LEETCODE/tree/master/0015-3sum) |
@@ -153,6 +154,7 @@ DSA PROBLEMS
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/Rushi200-6/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rushi200-6/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rushi200-6/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
