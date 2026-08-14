@@ -24,3 +24,5 @@ class Solution:
                 else:
                     l+=1
         return res
+        #1.20
+        #two poinnter on sorted array
