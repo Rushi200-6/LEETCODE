@@ -25,4 +25,5 @@ class Solution(object):
                     else:
                         r-=1
         return res
+         #first fix i and j then move two pointers
         
