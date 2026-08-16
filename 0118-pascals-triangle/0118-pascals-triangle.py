@@ -9,3 +9,5 @@ class Solution(object):
                 curr.append(temp[j]+temp[j+1])
             res.append(curr)
         return res
+
+        #two pointers from starting
