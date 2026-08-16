@@ -11,4 +11,4 @@ class Solution(object):
                 r-=1
         return l
     
-#two pointers using binary search
+#two pointers using binary search  after loop terminates the left pointer position is your missing target position at the ned just print left
