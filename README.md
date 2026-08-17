@@ -125,6 +125,7 @@ DSA PROBLEMS
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rushi200-6/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Rushi200-6/LEETCODE/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Rushi200-6/LEETCODE/tree/main/0136-single-number/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/Rushi200-6/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Rushi200-6/LEETCODE/tree/main/0283-move-zeroes/) | Easy |
@@ -273,6 +274,7 @@ DSA PROBLEMS
 | [0069-sqrtx](https://github.com/Rushi200-6/LEETCODE/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Rushi200-6/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Rushi200-6/LEETCODE/tree/main/0704-binary-search/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
