@@ -22,4 +22,4 @@ class Solution:
                     l=mid+1
         return False
                 
-#similar to search in sorted array 1 but 1 extra additional condition required to handle the duplicates 
+#similar to search in sorted array I but 1 extra additional condition required to handle the duplicates 
