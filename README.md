@@ -18,6 +18,7 @@ DSA PROBLEMS
 | [0069-sqrtx](https://github.com/Rushi200-6/LEETCODE/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Rushi200-6/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [0089-gray-code](https://github.com/Rushi200-6/LEETCODE/tree/main/0089-gray-code/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Rushi200-6/LEETCODE/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0189-rotate-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -65,6 +66,7 @@ DSA PROBLEMS
 | [0087-scramble-string](https://github.com/Rushi200-6/LEETCODE/tree/main/0087-scramble-string/) | Hard |
 | [0091-decode-ways](https://github.com/Rushi200-6/LEETCODE/tree/main/0091-decode-ways/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Rushi200-6/LEETCODE/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0118-pascals-triangle](https://github.com/Rushi200-6/LEETCODE/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rushi200-6/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Recursion
@@ -323,11 +325,13 @@ DSA PROBLEMS
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Rushi200-6/LEETCODE/tree/main/0096-unique-binary-search-trees/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Rushi200-6/LEETCODE/tree/main/0096-unique-binary-search-trees/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,4 +344,5 @@ DSA PROBLEMS
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Rushi200-6/LEETCODE/tree/main/0096-unique-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->
