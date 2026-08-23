@@ -318,6 +318,7 @@ DSA PROBLEMS
 | ------- | ------- |
 | [0079-word-search](https://github.com/Rushi200-6/LEETCODE/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0098-validate-binary-search-tree/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -328,12 +329,14 @@ DSA PROBLEMS
 | [0094-binary-tree-inorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Rushi200-6/LEETCODE/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0098-validate-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Rushi200-6/LEETCODE/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0098-validate-binary-search-tree/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -347,4 +350,5 @@ DSA PROBLEMS
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Rushi200-6/LEETCODE/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
