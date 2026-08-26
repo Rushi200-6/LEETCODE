@@ -8,7 +8,7 @@ class Solution:
     def isMirror(self, left, right):
        
         if not left and not right:
-            # Base case: one node is null, the other is not
+            
             return True
         if not left or not right:
             return False
