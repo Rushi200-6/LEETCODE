@@ -6,7 +6,7 @@ class Solution:
         return self.isMirror(root.left, root.right)
 
     def isMirror(self, left, right):
-        # Base case: both nodes are null
+       
         if not left and not right:
             # Base case: one node is null, the other is not
             return True
