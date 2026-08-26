@@ -1,7 +1,3 @@
-
-
-
-
 class Solution:
 
     def levelOrder(self, root):
@@ -9,7 +5,7 @@ class Solution:
             return []
 
         result = []
-        queue = deque([root])  # Initialize queue with root
+        queue = deque([root])  
 
         while queue:
             level_size = len(queue)  # Number of nodes at the current level
@@ -28,3 +24,4 @@ class Solution:
             result.append(current_level)  # Add level snapshot to result
 
         return result
+#102
