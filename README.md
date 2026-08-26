@@ -336,6 +336,7 @@ DSA PROBLEMS
 | [0099-recover-binary-search-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0101-symmetric-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -346,6 +347,7 @@ DSA PROBLEMS
 | [0099-recover-binary-search-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0101-symmetric-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -366,4 +368,5 @@ DSA PROBLEMS
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0101-symmetric-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 <!---LeetCode Topics End-->
