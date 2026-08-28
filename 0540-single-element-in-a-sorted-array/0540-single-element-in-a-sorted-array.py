@@ -23,4 +23,5 @@ class Solution(object):
                     l=mid+1
                 else:
                     r=mid-1
-            
+# check even odd 
+#first check the length condition
