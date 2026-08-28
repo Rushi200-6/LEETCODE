@@ -8,4 +8,3 @@ class Solution:
 
         return 1 + max(left, right)
 
-        #dfs
