@@ -1,25 +1,24 @@
 class Solution:
     def searchMatrix(self, matrix, target):
-        if not matrix or not matrix[0]:
-            return False
-        
-        m, n = len(matrix), len(matrix[0])
-        left, right = 0, m * n - 1
-        
-        while left <= right:
-            mid = (left + right) // 2
-            
-            
-            row = mid // n
-            col = mid % n
-            
-            val = matrix[row][col]
-            
-            if val == target:
-                return True
-            elif val < target:
-                left = mid + 1
+        m=len(matrix)
+        n=len(matrix[0])
+        l,r=0,m-1
+        while l<=r:
+            mid=l+(r-l)//2
+            if target>=matrix[mid][0] and target<=matrix[mid][n-1]:
+                low,high=0,n-1
+                while low<=high:
+                    m=low+(high-low)//2
+                    if target==matrix[mid][m]:
+                        return True
+                    if target<matrix[mid][m]:
+                        high=m-1
+                    else:
+                        low=m+1
+                return False
+            elif target>matrix[mid][n-1]:
+                l=mid+1
             else:
-                right = mid - 1
-        
+                r=mid-1
         return False
+        
