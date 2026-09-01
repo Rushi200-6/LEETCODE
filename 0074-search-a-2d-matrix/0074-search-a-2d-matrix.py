@@ -20,5 +20,7 @@ class Solution:
                 l=mid+1
             else:
                 r=mid-1
-        return False
+        return False 
+
+    #first apply binary search on rows then apply binary search  inside the row
         
