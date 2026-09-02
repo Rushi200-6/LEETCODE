@@ -136,6 +136,7 @@ DSA PROBLEMS
 | [0162-find-peak-element](https://github.com/Rushi200-6/LEETCODE/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/Rushi200-6/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0189-rotate-array/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/Rushi200-6/LEETCODE/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Rushi200-6/LEETCODE/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -253,6 +254,7 @@ DSA PROBLEMS
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0169-majority-element](https://github.com/Rushi200-6/LEETCODE/tree/main/0169-majority-element/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,6 +292,7 @@ DSA PROBLEMS
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Rushi200-6/LEETCODE/tree/main/0162-find-peak-element/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Rushi200-6/LEETCODE/tree/main/0704-binary-search/) | Easy |
 ## Monotonic Stack
@@ -319,6 +322,7 @@ DSA PROBLEMS
 | [0074-search-a-2d-matrix](https://github.com/Rushi200-6/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/Rushi200-6/LEETCODE/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Rushi200-6/LEETCODE/tree/main/0085-maximal-rectangle/) | Hard |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
