@@ -48,6 +48,7 @@ DSA PROBLEMS
 | [0091-decode-ways](https://github.com/Rushi200-6/LEETCODE/tree/main/0091-decode-ways/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/Rushi200-6/LEETCODE/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/Rushi200-6/LEETCODE/tree/main/0097-interleaving-string/) | Medium |
+| [0796-rotate-string](https://github.com/Rushi200-6/LEETCODE/tree/main/0796-rotate-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,6 +268,7 @@ DSA PROBLEMS
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rushi200-6/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Rushi200-6/LEETCODE/tree/main/0796-rotate-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
