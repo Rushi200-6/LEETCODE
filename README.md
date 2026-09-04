@@ -48,6 +48,7 @@ DSA PROBLEMS
 | [0091-decode-ways](https://github.com/Rushi200-6/LEETCODE/tree/main/0091-decode-ways/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/Rushi200-6/LEETCODE/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/Rushi200-6/LEETCODE/tree/main/0097-interleaving-string/) | Medium |
+| [0242-valid-anagram](https://github.com/Rushi200-6/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/Rushi200-6/LEETCODE/tree/main/0796-rotate-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -190,6 +191,7 @@ DSA PROBLEMS
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Rushi200-6/LEETCODE/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Rushi200-6/LEETCODE/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/Rushi200-6/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Rushi200-6/LEETCODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -207,6 +209,7 @@ DSA PROBLEMS
 | [0075-sort-colors](https://github.com/Rushi200-6/LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Rushi200-6/LEETCODE/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/Rushi200-6/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
