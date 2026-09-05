@@ -130,6 +130,7 @@ DSA PROBLEMS
 | [0090-subsets-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/Rushi200-6/LEETCODE/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rushi200-6/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Rushi200-6/LEETCODE/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -257,6 +258,7 @@ DSA PROBLEMS
 | [0053-maximum-subarray](https://github.com/Rushi200-6/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/Rushi200-6/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Heap (Priority Queue)
@@ -362,6 +364,7 @@ DSA PROBLEMS
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -378,6 +381,7 @@ DSA PROBLEMS
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -393,6 +397,7 @@ DSA PROBLEMS
 | [0096-unique-binary-search-trees](https://github.com/Rushi200-6/LEETCODE/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
