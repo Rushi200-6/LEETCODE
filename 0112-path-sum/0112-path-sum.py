@@ -3,7 +3,6 @@ class Solution:
         if root is None:
             return False
 
-        # Leaf node
         if root.left is None and root.right is None:
             return targetSum == root.val
 
