@@ -16,3 +16,4 @@ class Solution:
             self.minDepth(root.left),
             self.minDepth(root.right)
         )
+        # minimum
