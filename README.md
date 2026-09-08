@@ -228,6 +228,7 @@ DSA PROBLEMS
 | [0090-subsets-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0090-subsets-ii/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/Rushi200-6/LEETCODE/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0113-path-sum-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0113-path-sum-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -349,6 +350,7 @@ DSA PROBLEMS
 | [0110-balanced-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0113-path-sum-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -374,6 +376,7 @@ DSA PROBLEMS
 | [0110-balanced-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0113-path-sum-ii/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -395,6 +398,7 @@ DSA PROBLEMS
 | [0110-balanced-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0113-path-sum-ii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
