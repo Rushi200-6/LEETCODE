@@ -16,3 +16,4 @@ class Solution:
             curr = curr.right
 
         curr.right = right
+    # tree
