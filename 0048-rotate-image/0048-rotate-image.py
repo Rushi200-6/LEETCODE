@@ -6,3 +6,5 @@ class Solution(object):
                 matrix[i][j],matrix[j][i]=matrix[j][i],matrix[i][j]
         for i in range(n):
             matrix[i].reverse()
+
+# first do transpose then reverse each column one by one
