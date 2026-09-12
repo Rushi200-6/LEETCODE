@@ -27,3 +27,4 @@ class Solution:
         if first_col_zero:
             for i in range(rows):
                 matrix[i][0] = 0
+# first find 0 in rows and column then create zero
