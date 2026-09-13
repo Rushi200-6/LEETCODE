@@ -10,4 +10,3 @@ class Solution:
 
         return (self.hasPathSum(root.left, remaining) or
                 self.hasPathSum(root.right, remaining))
-# haspathsum
