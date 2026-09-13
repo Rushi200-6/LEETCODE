@@ -1,5 +1,7 @@
 class Solution:
     def spiralOrder(self, matrix):
+        if not matrix or not matrix[0]:
+            return []
         res = []
         
         top, bottom = 0, len(matrix) - 1
