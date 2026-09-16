@@ -51,6 +51,7 @@ DSA PROBLEMS
 | [0115-distinct-subsequences](https://github.com/Rushi200-6/LEETCODE/tree/main/0115-distinct-subsequences/) | Hard |
 | [0242-valid-anagram](https://github.com/Rushi200-6/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/Rushi200-6/LEETCODE/tree/main/0796-rotate-string/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -258,6 +259,7 @@ DSA PROBLEMS
 | [0085-maximal-rectangle](https://github.com/Rushi200-6/LEETCODE/tree/main/0085-maximal-rectangle/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rushi200-6/LEETCODE/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -440,4 +442,5 @@ DSA PROBLEMS
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
