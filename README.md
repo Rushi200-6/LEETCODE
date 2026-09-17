@@ -145,6 +145,7 @@ DSA PROBLEMS
 | [0240-search-a-2d-matrix-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/Rushi200-6/LEETCODE/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Rushi200-6/LEETCODE/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0493-reverse-pairs](https://github.com/Rushi200-6/LEETCODE/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rushi200-6/LEETCODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Rushi200-6/LEETCODE/tree/main/0704-binary-search/) | Easy |
@@ -271,6 +272,7 @@ DSA PROBLEMS
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0169-majority-element](https://github.com/Rushi200-6/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0493-reverse-pairs](https://github.com/Rushi200-6/LEETCODE/tree/main/0493-reverse-pairs/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -279,6 +281,7 @@ DSA PROBLEMS
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rushi200-6/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/Rushi200-6/LEETCODE/tree/main/0493-reverse-pairs/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -310,6 +313,7 @@ DSA PROBLEMS
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Rushi200-6/LEETCODE/tree/main/0162-find-peak-element/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0493-reverse-pairs](https://github.com/Rushi200-6/LEETCODE/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Rushi200-6/LEETCODE/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Rushi200-6/LEETCODE/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -443,4 +447,20 @@ DSA PROBLEMS
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Rushi200-6/LEETCODE/tree/main/0493-reverse-pairs/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Rushi200-6/LEETCODE/tree/main/0493-reverse-pairs/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Rushi200-6/LEETCODE/tree/main/0493-reverse-pairs/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Rushi200-6/LEETCODE/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
