@@ -54,3 +54,4 @@ class Solution:
             return count
 
         return merge_sort(0, len(nums) - 1)
+        # merge sort + count inversion
