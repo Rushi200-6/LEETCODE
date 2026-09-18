@@ -463,4 +463,8 @@ DSA PROBLEMS
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Rushi200-6/LEETCODE/tree/main/0493-reverse-pairs/) | Hard |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/Rushi200-6/LEETCODE/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
