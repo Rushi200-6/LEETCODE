@@ -1,16 +1,11 @@
 class Solution:
     def merge(self, intervals):
-        
+        n=len(intervals)
         intervals.sort()
-
-        merged = []
-
-        for interval in intervals:
-            
-            if not merged or merged[-1][1] < interval[0]:
-                merged.append(interval)
+        res=[]
+        for i in range(0,n): 
+            if len(res)==0 or intervals[i][0]>res[-1][1]:
+                res.append(intervals[i])
             else:
-                
-                merged[-1][1] = max(merged[-1][1], interval[1])
-
-        return merged
+                res[-1][1]=max(res[-1][1],intervals[i][1])
+        return res
