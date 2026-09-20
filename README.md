@@ -252,6 +252,7 @@ DSA PROBLEMS
 | [0092-reverse-linked-list-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rushi200-6/LEETCODE/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Rushi200-6/LEETCODE/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -367,6 +368,7 @@ DSA PROBLEMS
 | [0112-path-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rushi200-6/LEETCODE/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Rushi200-6/LEETCODE/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -395,6 +397,7 @@ DSA PROBLEMS
 | [0112-path-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rushi200-6/LEETCODE/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Rushi200-6/LEETCODE/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -418,6 +421,7 @@ DSA PROBLEMS
 | [0112-path-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rushi200-6/LEETCODE/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Rushi200-6/LEETCODE/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -446,6 +450,7 @@ DSA PROBLEMS
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0112-path-sum/) | Easy |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Rushi200-6/LEETCODE/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
