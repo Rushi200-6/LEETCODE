@@ -1,0 +1,23 @@
+class Solution:
+    def connect(self, root):
+        if root is None:
+            return root
+
+        leftmost = root
+
+        while leftmost.left:
+            head = leftmost
+
+            while head:
+                # Connect left child to right child
+                head.left.next = head.right
+
+                # Connect right child to next parent's left child
+                if head.next:
+                    head.right.next = head.next.left
+
+                head = head.next
+
+            leftmost = leftmost.left
+
+        return root
