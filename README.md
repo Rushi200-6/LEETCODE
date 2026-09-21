@@ -76,6 +76,7 @@ DSA PROBLEMS
 | [0115-distinct-subsequences](https://github.com/Rushi200-6/LEETCODE/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/Rushi200-6/LEETCODE/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rushi200-6/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/Rushi200-6/LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +139,7 @@ DSA PROBLEMS
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rushi200-6/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Rushi200-6/LEETCODE/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Rushi200-6/LEETCODE/tree/main/0136-single-number/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/Rushi200-6/LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Rushi200-6/LEETCODE/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/Rushi200-6/LEETCODE/tree/main/0169-majority-element/) | Easy |
