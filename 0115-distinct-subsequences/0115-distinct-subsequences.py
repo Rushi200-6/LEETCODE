@@ -12,4 +12,4 @@ class Solution(object):
                     dp[j] += dp[j - 1]
 
         return dp[n]
-        # dynamic programings
+       
