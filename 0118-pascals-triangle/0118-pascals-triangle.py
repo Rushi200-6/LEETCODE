@@ -10,4 +10,4 @@ class Solution(object):
             res.append(curr)
         return res
 
-        #two pointers from starting
+      
