@@ -23,6 +23,7 @@ DSA PROBLEMS
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rushi200-6/LEETCODE/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Rushi200-6/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Rushi200-6/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rushi200-6/LEETCODE/tree/master/0013-roman-to-integer) |
@@ -55,6 +56,7 @@ DSA PROBLEMS
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rushi200-6/LEETCODE/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Rushi200-6/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/master/0032-longest-valid-parentheses) |
@@ -158,6 +160,7 @@ DSA PROBLEMS
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rushi200-6/LEETCODE/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Rushi200-6/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rushi200-6/LEETCODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Rushi200-6/LEETCODE/tree/master/0016-3sum-closest) |
@@ -486,4 +489,8 @@ DSA PROBLEMS
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Rushi200-6/LEETCODE/tree/main/0069-sqrtx/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rushi200-6/LEETCODE/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
