@@ -12,7 +12,7 @@ class Solution:
                 
                 head.left.next = head.right
 
-                # Connect right child to next parent's left child
+               
                 if head.next:
                     head.right.next = head.next.left
 
