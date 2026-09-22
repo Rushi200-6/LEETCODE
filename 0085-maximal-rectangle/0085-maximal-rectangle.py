@@ -34,3 +34,4 @@ class Solution:
         
         heights.pop()  
         return max_area
+# maximum rectangle area
