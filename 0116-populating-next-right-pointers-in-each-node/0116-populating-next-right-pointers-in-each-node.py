@@ -9,7 +9,7 @@ class Solution:
             head = leftmost
 
             while head:
-                # Connect left child to right child
+                
                 head.left.next = head.right
 
                 # Connect right child to next parent's left child
