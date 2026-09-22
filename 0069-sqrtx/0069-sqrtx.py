@@ -16,3 +16,4 @@ class Solution:
             else:
                 r=mid-1
         return res
+        # binary search
