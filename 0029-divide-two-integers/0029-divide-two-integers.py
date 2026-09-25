@@ -30,3 +30,4 @@ class Solution:
             quotient += multiple
 
         return -quotient if negative else quotient
+    # qo
