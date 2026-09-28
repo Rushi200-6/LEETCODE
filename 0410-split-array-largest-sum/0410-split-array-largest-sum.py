@@ -21,6 +21,8 @@ class Solution(object):
             else:
                 l=mid+1
         return ans
+        # binary search on answer
+        
             
 
         
