@@ -80,6 +80,7 @@ DSA PROBLEMS
 | [0119-pascals-triangle-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rushi200-6/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Rushi200-6/LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,6 +152,7 @@ DSA PROBLEMS
 | [0229-majority-element-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0229-majority-element-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/Rushi200-6/LEETCODE/tree/main/0283-move-zeroes/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/Rushi200-6/LEETCODE/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/Rushi200-6/LEETCODE/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -193,6 +195,7 @@ DSA PROBLEMS
 | [0044-wildcard-matching](https://github.com/Rushi200-6/LEETCODE/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Rushi200-6/LEETCODE/tree/main/0055-jump-game/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -329,6 +332,7 @@ DSA PROBLEMS
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Rushi200-6/LEETCODE/tree/main/0162-find-peak-element/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/Rushi200-6/LEETCODE/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Rushi200-6/LEETCODE/tree/main/0704-binary-search/) | Easy |
@@ -448,6 +452,7 @@ DSA PROBLEMS
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/Rushi200-6/LEETCODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
