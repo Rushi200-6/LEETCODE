@@ -17,4 +17,5 @@ class Solution(object):
             else:
                 res+=r[s[i]]
         return res
-    # IV=V-I
+    # IV=V-I,5-1=4
+    # CM=M-C,1000-100=900
