@@ -85,6 +85,7 @@ DSA PROBLEMS
 | [0119-pascals-triangle-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/Rushi200-6/LEETCODE/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rushi200-6/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Rushi200-6/LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Recursion
@@ -149,6 +150,7 @@ DSA PROBLEMS
 | [0119-pascals-triangle-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/Rushi200-6/LEETCODE/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rushi200-6/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Rushi200-6/LEETCODE/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Rushi200-6/LEETCODE/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Rushi200-6/LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -203,6 +205,7 @@ DSA PROBLEMS
 | [0044-wildcard-matching](https://github.com/Rushi200-6/LEETCODE/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Rushi200-6/LEETCODE/tree/main/0055-jump-game/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
