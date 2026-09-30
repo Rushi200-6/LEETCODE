@@ -80,6 +80,7 @@ DSA PROBLEMS
 | [0115-distinct-subsequences](https://github.com/Rushi200-6/LEETCODE/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/Rushi200-6/LEETCODE/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0120-triangle](https://github.com/Rushi200-6/LEETCODE/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rushi200-6/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Rushi200-6/LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -143,6 +144,7 @@ DSA PROBLEMS
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/Rushi200-6/LEETCODE/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0120-triangle](https://github.com/Rushi200-6/LEETCODE/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rushi200-6/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Rushi200-6/LEETCODE/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Rushi200-6/LEETCODE/tree/main/0136-single-number/) | Easy |
