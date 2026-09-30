@@ -6,4 +6,3 @@ class Solution:
             ans.append(ans[-1] * (rowIndex - i) // (i + 1))
 
         return ans
-# on
