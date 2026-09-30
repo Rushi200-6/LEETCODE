@@ -13,6 +13,7 @@ DSA PROBLEMS
 | [0048-rotate-image](https://github.com/Rushi200-6/LEETCODE/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Rushi200-6/LEETCODE/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/Rushi200-6/LEETCODE/tree/main/0060-permutation-sequence/) | Hard |
+| [0062-unique-paths](https://github.com/Rushi200-6/LEETCODE/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Rushi200-6/LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Rushi200-6/LEETCODE/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Rushi200-6/LEETCODE/tree/main/0069-sqrtx/) | Easy |
@@ -67,6 +68,7 @@ DSA PROBLEMS
 | [0045-jump-game-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Rushi200-6/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Rushi200-6/LEETCODE/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/Rushi200-6/LEETCODE/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Rushi200-6/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
@@ -524,4 +526,8 @@ DSA PROBLEMS
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rushi200-6/LEETCODE/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Rushi200-6/LEETCODE/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
