@@ -8,3 +8,4 @@ class Solution:
                                        triangle[i + 1][j + 1])
 
         return triangle[0][0]
+        # minimum
