@@ -10,5 +10,5 @@ class Solution(object):
                 mn=min(x for x in freq if x>0)
                 ans+=mx-mn
         return ans
-# 2
+
         
