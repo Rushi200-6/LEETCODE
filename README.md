@@ -53,6 +53,7 @@ DSA PROBLEMS
 | [0093-restore-ip-addresses](https://github.com/Rushi200-6/LEETCODE/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/Rushi200-6/LEETCODE/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Rushi200-6/LEETCODE/tree/main/0115-distinct-subsequences/) | Hard |
+| [0151-reverse-words-in-a-string](https://github.com/Rushi200-6/LEETCODE/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Rushi200-6/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/Rushi200-6/LEETCODE/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -198,6 +199,7 @@ DSA PROBLEMS
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/Rushi200-6/LEETCODE/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/Rushi200-6/LEETCODE/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Rushi200-6/LEETCODE/tree/main/0283-move-zeroes/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rushi200-6/LEETCODE/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
