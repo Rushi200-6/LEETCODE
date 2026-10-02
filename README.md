@@ -21,6 +21,7 @@ DSA PROBLEMS
 | [0089-gray-code](https://github.com/Rushi200-6/LEETCODE/tree/main/0089-gray-code/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Rushi200-6/LEETCODE/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0189-rotate-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0189-rotate-array/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/Rushi200-6/LEETCODE/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +60,7 @@ DSA PROBLEMS
 | [1021-remove-outermost-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rushi200-6/LEETCODE/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/Rushi200-6/LEETCODE/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +214,7 @@ DSA PROBLEMS
 | [0055-jump-game](https://github.com/Rushi200-6/LEETCODE/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0410-split-array-largest-sum/) | Hard |
+| [1903-largest-odd-number-in-string](https://github.com/Rushi200-6/LEETCODE/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
