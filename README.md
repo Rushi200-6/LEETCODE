@@ -57,6 +57,7 @@ DSA PROBLEMS
 | [0151-reverse-words-in-a-string](https://github.com/Rushi200-6/LEETCODE/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Rushi200-6/LEETCODE/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Rushi200-6/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Rushi200-6/LEETCODE/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0796-rotate-string](https://github.com/Rushi200-6/LEETCODE/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -235,6 +236,7 @@ DSA PROBLEMS
 | [0205-isomorphic-strings](https://github.com/Rushi200-6/LEETCODE/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Rushi200-6/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Rushi200-6/LEETCODE/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rushi200-6/LEETCODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rushi200-6/LEETCODE/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Trie
@@ -255,6 +257,7 @@ DSA PROBLEMS
 | [0169-majority-element](https://github.com/Rushi200-6/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Rushi200-6/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Rushi200-6/LEETCODE/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,6 +322,7 @@ DSA PROBLEMS
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rushi200-6/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0451-sort-characters-by-frequency](https://github.com/Rushi200-6/LEETCODE/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -420,6 +424,7 @@ DSA PROBLEMS
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Rushi200-6/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0229-majority-element-ii/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/Rushi200-6/LEETCODE/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rushi200-6/LEETCODE/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -544,4 +549,8 @@ DSA PROBLEMS
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Rushi200-6/LEETCODE/tree/main/0062-unique-paths/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Rushi200-6/LEETCODE/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
