@@ -55,6 +55,7 @@ DSA PROBLEMS
 | [0097-interleaving-string](https://github.com/Rushi200-6/LEETCODE/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Rushi200-6/LEETCODE/tree/main/0115-distinct-subsequences/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Rushi200-6/LEETCODE/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/Rushi200-6/LEETCODE/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Rushi200-6/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/Rushi200-6/LEETCODE/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -231,6 +232,7 @@ DSA PROBLEMS
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Rushi200-6/LEETCODE/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Rushi200-6/LEETCODE/tree/main/0169-majority-element/) | Easy |
+| [0205-isomorphic-strings](https://github.com/Rushi200-6/LEETCODE/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Rushi200-6/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Rushi200-6/LEETCODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
