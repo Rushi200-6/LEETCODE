@@ -58,6 +58,7 @@ DSA PROBLEMS
 | [0205-isomorphic-strings](https://github.com/Rushi200-6/LEETCODE/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Rushi200-6/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Rushi200-6/LEETCODE/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0696-count-binary-substrings](https://github.com/Rushi200-6/LEETCODE/tree/main/0696-count-binary-substrings/) | Easy |
 | [0796-rotate-string](https://github.com/Rushi200-6/LEETCODE/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -206,6 +207,7 @@ DSA PROBLEMS
 | [0151-reverse-words-in-a-string](https://github.com/Rushi200-6/LEETCODE/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/Rushi200-6/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Rushi200-6/LEETCODE/tree/main/0283-move-zeroes/) | Easy |
+| [0696-count-binary-substrings](https://github.com/Rushi200-6/LEETCODE/tree/main/0696-count-binary-substrings/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rushi200-6/LEETCODE/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
