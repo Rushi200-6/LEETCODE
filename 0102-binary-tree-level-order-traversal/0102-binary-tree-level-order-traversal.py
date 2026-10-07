@@ -1,27 +1,17 @@
 class Solution:
-
     def levelOrder(self, root):
-        if not root:
-            return []
-
-        result = []
-        queue = deque([root])  
-
-        while queue:
-            level_size = len(queue)  # Number of nodes at the current level
-            current_level = []
-
-            for _ in range(level_size):
-                node = queue.popleft()
-                current_level.append(node.val)
-
-                # Queue the children for the next level
+        ans=[]
+        if root is None:
+            return ans
+        q=deque([root])
+        while q:
+            level=[]
+            for _ in range(len(q)):
+                node=q.popleft()
+                level.append(node.val)
                 if node.left:
-                    queue.append(node.left)
+                    q.append(node.left)
                 if node.right:
-                    queue.append(node.right)
-
-            result.append(current_level)  # Add level snapshot to result
-
-        return result
-#102
+                    q.append(node.right)
+            ans.append(level)
+        return ans
