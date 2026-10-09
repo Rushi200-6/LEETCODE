@@ -2,7 +2,6 @@ class Solution(object):
     def diameterOfBinaryTree(self, root):
         ans=[0]
         def D(node):
-            # nonlocal ans
             if node is None:
                 return 0
             left=D(node.left)
