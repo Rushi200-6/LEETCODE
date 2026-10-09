@@ -94,6 +94,7 @@ DSA PROBLEMS
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rushi200-6/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Rushi200-6/LEETCODE/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Rushi200-6/LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Recursion
@@ -423,6 +424,7 @@ DSA PROBLEMS
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rushi200-6/LEETCODE/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rushi200-6/LEETCODE/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -458,6 +460,7 @@ DSA PROBLEMS
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rushi200-6/LEETCODE/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rushi200-6/LEETCODE/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -486,6 +489,7 @@ DSA PROBLEMS
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rushi200-6/LEETCODE/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rushi200-6/LEETCODE/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -569,5 +573,6 @@ DSA PROBLEMS
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
