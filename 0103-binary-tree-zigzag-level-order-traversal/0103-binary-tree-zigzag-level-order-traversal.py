@@ -1,33 +1,22 @@
-from collections import deque
-
 class Solution:
     def zigzagLevelOrder(self, root):
-        if not root:
+        if root is None:
             return []
-
-        result = []
-        queue = deque([root])
-        left_to_right = True
-
-        while queue:
-            n = len(queue)
-            level = [0] * n
-
-            for i in range(n):
-                node = queue.popleft()
-
-                if left_to_right:
-                    level[i] = node.val
-                else:
-                    level[n - 1 - i] = node.val
+        q=deque([root])
+        ans=[]
+        lr=True
+        while q:
+            level=[]
+            for i in range(len(q)):
+                node=q.popleft()
+                level.append(node.val)
 
                 if node.left:
-                    queue.append(node.left)
-
+                    q.append(node.left)
                 if node.right:
-                    queue.append(node.right)
-
-            result.append(level)
-            left_to_right = not left_to_right
-
-        return result
+                    q.append(node.right)
+            if not lr:
+                level.reverse()
+            ans.append(level)
+            lr=not lr
+        return ans
