@@ -1,21 +1,18 @@
 class Solution:
-
     def isSymmetric(self, root):
-        if not root:
+        if root is None:
             return True
-        return self.isMirror(root.left, root.right)
 
-    def isMirror(self, left, right):
-       
-        if not left and not right:
+        def dfs(left,right):
             
-            return True
-        if not left or not right:
-            return False
+            if not left and not right:
+                return True
 
-        # Values must match, and outer/inner subtrees must mirror each other
-        return (
-            left.val == right.val
-            and self.isMirror(left.left, right.right)
-            and self.isMirror(left.right, right.left)
-        )
+            if not left or not right:
+                return False
+
+            return (left.val==right.val and
+             dfs(left.left,right.right) and 
+             dfs(left.right,right.left))
+        
+        return dfs(root.left,root.right)
