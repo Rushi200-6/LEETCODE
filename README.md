@@ -241,6 +241,7 @@ DSA PROBLEMS
 | [0242-valid-anagram](https://github.com/Rushi200-6/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Rushi200-6/LEETCODE/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rushi200-6/LEETCODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rushi200-6/LEETCODE/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -261,6 +262,7 @@ DSA PROBLEMS
 | [0229-majority-element-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Rushi200-6/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Rushi200-6/LEETCODE/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -428,6 +430,7 @@ DSA PROBLEMS
 | [0144-binary-tree-preorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -464,6 +467,7 @@ DSA PROBLEMS
 | [0144-binary-tree-preorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -493,6 +497,7 @@ DSA PROBLEMS
 | [0144-binary-tree-preorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -524,6 +529,7 @@ DSA PROBLEMS
 | [0112-path-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0112-path-sum/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rushi200-6/LEETCODE/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
