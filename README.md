@@ -241,6 +241,7 @@ DSA PROBLEMS
 | [0242-valid-anagram](https://github.com/Rushi200-6/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Rushi200-6/LEETCODE/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rushi200-6/LEETCODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rushi200-6/LEETCODE/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Trie
@@ -433,6 +434,7 @@ DSA PROBLEMS
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
@@ -473,6 +475,7 @@ DSA PROBLEMS
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -506,6 +509,7 @@ DSA PROBLEMS
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -540,6 +544,7 @@ DSA PROBLEMS
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Rushi200-6/LEETCODE/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
