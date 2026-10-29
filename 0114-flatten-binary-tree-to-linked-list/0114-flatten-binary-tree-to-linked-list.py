@@ -1,19 +1,14 @@
 class Solution:
     def flatten(self, root):
-        if not root:
-            return
-
-        self.flatten(root.left)
-        self.flatten(root.right)
-
-        right = root.right
-
-        root.right = root.left
-        root.left = None
-
-        curr = root
-        while curr.right:
-            curr = curr.right
-
-        curr.right = right
-# binary tree
+        self.prev=None
+        def dfs(node):
+            if node is None:
+                return
+            dfs(node.right)
+            dfs(node.left)
+            node.right=self.prev
+            node.left=None
+            self.prev=node
+        dfs(root)
+    
+        
