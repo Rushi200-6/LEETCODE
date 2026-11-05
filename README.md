@@ -57,6 +57,7 @@ DSA PROBLEMS
 | [0151-reverse-words-in-a-string](https://github.com/Rushi200-6/LEETCODE/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Rushi200-6/LEETCODE/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Rushi200-6/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0451-sort-characters-by-frequency](https://github.com/Rushi200-6/LEETCODE/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0696-count-binary-substrings](https://github.com/Rushi200-6/LEETCODE/tree/main/0696-count-binary-substrings/) | Easy |
 | [0796-rotate-string](https://github.com/Rushi200-6/LEETCODE/tree/main/0796-rotate-string/) | Easy |
@@ -434,6 +435,7 @@ DSA PROBLEMS
 | [0145-binary-tree-postorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Rushi200-6/LEETCODE/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -476,6 +478,7 @@ DSA PROBLEMS
 | [0199-binary-tree-right-side-view](https://github.com/Rushi200-6/LEETCODE/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Rushi200-6/LEETCODE/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -511,6 +514,7 @@ DSA PROBLEMS
 | [0199-binary-tree-right-side-view](https://github.com/Rushi200-6/LEETCODE/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Rushi200-6/LEETCODE/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -547,6 +551,7 @@ DSA PROBLEMS
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rushi200-6/LEETCODE/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rushi200-6/LEETCODE/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Rushi200-6/LEETCODE/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -610,4 +615,8 @@ DSA PROBLEMS
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 <!---LeetCode Topics End-->
