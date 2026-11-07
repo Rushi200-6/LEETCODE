@@ -479,6 +479,7 @@ DSA PROBLEMS
 | [0222-count-complete-tree-nodes](https://github.com/Rushi200-6/LEETCODE/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0450-delete-node-in-a-bst](https://github.com/Rushi200-6/LEETCODE/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -517,6 +518,7 @@ DSA PROBLEMS
 | [0222-count-complete-tree-nodes](https://github.com/Rushi200-6/LEETCODE/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0450-delete-node-in-a-bst](https://github.com/Rushi200-6/LEETCODE/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -541,6 +543,7 @@ DSA PROBLEMS
 | [0099-recover-binary-search-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/Rushi200-6/LEETCODE/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Breadth-First Search
