@@ -10,3 +10,12 @@ class Solution(object):
             return self.lowestCommonAncestor(root.right,p,q)
         else:
             return root
+    # to avoid or eliminate  the recursive stack space
+    # while root:
+    #     if p.val<root.val and q.val<root.val:
+    #         root=root.left
+    #     elif p.val>root.val and q.val>root.val:
+    #         root=root.right
+    #     else:
+    #         return root
+    # return None
