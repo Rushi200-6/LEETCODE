@@ -179,6 +179,7 @@ DSA PROBLEMS
 | [0560-subarray-sum-equals-k](https://github.com/Rushi200-6/LEETCODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Rushi200-6/LEETCODE/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Rushi200-6/LEETCODE/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rushi200-6/LEETCODE/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rushi200-6/LEETCODE/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rushi200-6/LEETCODE/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -313,6 +314,7 @@ DSA PROBLEMS
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rushi200-6/LEETCODE/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Divide and Conquer
@@ -386,6 +388,7 @@ DSA PROBLEMS
 | [0042-trapping-rain-water](https://github.com/Rushi200-6/LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rushi200-6/LEETCODE/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Rushi200-6/LEETCODE/tree/main/0085-maximal-rectangle/) | Hard |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -490,6 +493,7 @@ DSA PROBLEMS
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -531,6 +535,7 @@ DSA PROBLEMS
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -554,6 +559,7 @@ DSA PROBLEMS
 | [0450-delete-node-in-a-bst](https://github.com/Rushi200-6/LEETCODE/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
