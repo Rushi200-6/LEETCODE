@@ -314,6 +314,7 @@ DSA PROBLEMS
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rushi200-6/LEETCODE/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/Rushi200-6/LEETCODE/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rushi200-6/LEETCODE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -480,6 +481,7 @@ DSA PROBLEMS
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/Rushi200-6/LEETCODE/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Rushi200-6/LEETCODE/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Rushi200-6/LEETCODE/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rushi200-6/LEETCODE/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -522,6 +524,7 @@ DSA PROBLEMS
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rushi200-6/LEETCODE/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rushi200-6/LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/Rushi200-6/LEETCODE/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Rushi200-6/LEETCODE/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Rushi200-6/LEETCODE/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rushi200-6/LEETCODE/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -554,6 +557,7 @@ DSA PROBLEMS
 | [0099-recover-binary-search-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/Rushi200-6/LEETCODE/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rushi200-6/LEETCODE/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Rushi200-6/LEETCODE/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -643,5 +647,10 @@ DSA PROBLEMS
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Rushi200-6/LEETCODE/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rushi200-6/LEETCODE/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Rushi200-6/LEETCODE/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->
